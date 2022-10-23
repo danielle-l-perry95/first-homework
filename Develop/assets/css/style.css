@@ -85,6 +85,10 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -170,10 +174,6 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
