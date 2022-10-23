@@ -160,14 +160,14 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 .footer {
     padding: 30px;
@@ -175,7 +175,6 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h2 {
     font-size: 20px;
 }
